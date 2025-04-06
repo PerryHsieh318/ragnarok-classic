@@ -5,7 +5,7 @@ import os
 st.set_page_config(page_title="開服拓荒攻略站", layout="wide")
 
 st.title("🔥 開服拓荒攻略 - 練等路線")
-st.markdown("作者：秉序 | 最後更新：2025-04-06")
+st.markdown("作者：派瑞 | 最後更新：2025-04-06")
 
 # 圖片顯示 function（設定 width 為 50% 寬度）
 image_path = "images/image"
